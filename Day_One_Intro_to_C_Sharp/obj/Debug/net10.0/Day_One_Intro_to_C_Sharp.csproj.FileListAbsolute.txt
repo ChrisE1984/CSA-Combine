@@ -1,0 +1,14 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\bin\Debug\net10.0\Day_One_Intro_to_C_Sharp.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\bin\Debug\net10.0\Day_One_Intro_to_C_Sharp.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\bin\Debug\net10.0\Day_One_Intro_to_C_Sharp.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\bin\Debug\net10.0\Day_One_Intro_to_C_Sharp.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\bin\Debug\net10.0\Day_One_Intro_to_C_Sharp.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\refint\Day_One_Intro_to_C_Sharp.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\ref\Day_One_Intro_to_C_Sharp.dll
