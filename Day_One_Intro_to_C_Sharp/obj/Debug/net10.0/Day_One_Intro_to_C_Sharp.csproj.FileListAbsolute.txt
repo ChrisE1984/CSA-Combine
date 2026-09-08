@@ -12,3 +12,4 @@ C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\re
 C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.pdb
 C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.genruntimeconfig.cache
 C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\ref\Day_One_Intro_to_C_Sharp.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_One_Intro_to_C_Sharp\obj\Debug\net10.0\Day_One_Intro_to_C_Sharp.sourcelink.json
