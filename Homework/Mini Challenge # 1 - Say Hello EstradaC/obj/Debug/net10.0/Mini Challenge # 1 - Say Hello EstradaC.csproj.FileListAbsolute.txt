@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.exe
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.dll
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\bin\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.pdb
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.dll
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\refint\Mini Challenge # 1 - Say Hello EstradaC.dll
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.pdb
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\Mini Challenge # 1 - Say Hello EstradaC.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Homework\Mini Challenge # 1 - Say Hello EstradaC\obj\Debug\net10.0\ref\Mini Challenge # 1 - Say Hello EstradaC.dll

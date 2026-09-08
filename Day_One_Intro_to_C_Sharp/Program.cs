@@ -31,7 +31,7 @@ Console.Clear ();
 
 //Console.ReadLine ();
 
-// string is changed to input then input is output, so not useful but shows you can change an output to an input
+// string is changed to input then input is output,
 
 Console.WriteLine("What is your favorite album?");
 
@@ -40,3 +40,5 @@ string myfavAlbum = Console.ReadLine ();
 //Concatenation - the joining of two or more string (need to add space at end of string if creating a sentence)
 
 Console.WriteLine("Oh wow I love " + myfavAlbum);
+
+Console.Clear ();
