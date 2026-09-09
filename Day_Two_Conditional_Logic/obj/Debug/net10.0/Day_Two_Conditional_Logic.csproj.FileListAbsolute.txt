@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\bin\Debug\net10.0\Day_Two_Conditional_Logic.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\bin\Debug\net10.0\Day_Two_Conditional_Logic.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\bin\Debug\net10.0\Day_Two_Conditional_Logic.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\bin\Debug\net10.0\Day_Two_Conditional_Logic.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\bin\Debug\net10.0\Day_Two_Conditional_Logic.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\Day_Two_Conditional_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\Day_Two_Conditional_Logic.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\Day_Two_Conditional_Logic.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\Day_Two_Conditional_Logic.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\Day_Two_Conditional_Logic.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\Day_Two_Conditional_Logic.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\refint\Day_Two_Conditional_Logic.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\Day_Two_Conditional_Logic.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\Day_Two_Conditional_Logic.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Conditional_Logic\obj\Debug\net10.0\ref\Day_Two_Conditional_Logic.dll

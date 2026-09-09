@@ -50,7 +50,7 @@ Console.WriteLine(fullName);
 //string Interpolation is combining strings but we use $ then {} to add variable within the string
 
 Console.WriteLine("One of CodeStacks instructors is " + fullName); // Both are valid but Interpolation doesn't need the + sign
-Console.WriteLine($"One of CodeStacks Instructors is {fullName}");
+Console.WriteLine($"One of CodeStacks Instructors is {firstName + lastName}"); // But, will need to interpolate if adding multiple integers with a string i.e using the output in a sentence
 
 Console.WriteLine("Please enter the number 45");
 
