@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\bin\Debug\net10.0\Day_Two_Intro_to_Variables.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\bin\Debug\net10.0\Day_Two_Intro_to_Variables.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\bin\Debug\net10.0\Day_Two_Intro_to_Variables.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\bin\Debug\net10.0\Day_Two_Intro_to_Variables.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\bin\Debug\net10.0\Day_Two_Intro_to_Variables.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\Day_Two_Intro_to_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\Day_Two_Intro_to_Variables.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\Day_Two_Intro_to_Variables.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\Day_Two_Intro_to_Variables.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\Day_Two_Intro_to_Variables.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\Day_Two_Intro_to_Variables.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\refint\Day_Two_Intro_to_Variables.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\Day_Two_Intro_to_Variables.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\Day_Two_Intro_to_Variables.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Intro_to_Variables\obj\Debug\net10.0\ref\Day_Two_Intro_to_Variables.dll

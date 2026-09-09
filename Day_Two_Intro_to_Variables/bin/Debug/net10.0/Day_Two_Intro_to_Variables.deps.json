@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "Mini Challenge # 1 - Say Hello EstradaC/1.0.0": {
+      "Day_Two_Intro_to_Variables/1.0.0": {
         "runtime": {
-          "Mini Challenge # 1 - Say Hello EstradaC.dll": {}
+          "Day_Two_Intro_to_Variables.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Mini Challenge # 1 - Say Hello EstradaC/1.0.0": {
+    "Day_Two_Intro_to_Variables/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

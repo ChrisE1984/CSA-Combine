@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cestr\\Desktop\\CSA Combine\\Homework\\Mini Challenge # 1 - Say Hello EstradaC\\Mini Challenge # 1 - Say Hello EstradaC.csproj": {}
+    "C:\\Users\\cestr\\Desktop\\CSA Combine\\Day_Two_Intro_to_Variables\\Day_Two_Intro_to_Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cestr\\Desktop\\CSA Combine\\Homework\\Mini Challenge # 1 - Say Hello EstradaC\\Mini Challenge # 1 - Say Hello EstradaC.csproj": {
+    "C:\\Users\\cestr\\Desktop\\CSA Combine\\Day_Two_Intro_to_Variables\\Day_Two_Intro_to_Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cestr\\Desktop\\CSA Combine\\Homework\\Mini Challenge # 1 - Say Hello EstradaC\\Mini Challenge # 1 - Say Hello EstradaC.csproj",
-        "projectName": "Mini Challenge # 1 - Say Hello EstradaC",
-        "projectPath": "C:\\Users\\cestr\\Desktop\\CSA Combine\\Homework\\Mini Challenge # 1 - Say Hello EstradaC\\Mini Challenge # 1 - Say Hello EstradaC.csproj",
+        "projectUniqueName": "C:\\Users\\cestr\\Desktop\\CSA Combine\\Day_Two_Intro_to_Variables\\Day_Two_Intro_to_Variables.csproj",
+        "projectName": "Day_Two_Intro_to_Variables",
+        "projectPath": "C:\\Users\\cestr\\Desktop\\CSA Combine\\Day_Two_Intro_to_Variables\\Day_Two_Intro_to_Variables.csproj",
         "packagesPath": "C:\\Users\\cestr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cestr\\Desktop\\CSA Combine\\Homework\\Mini Challenge # 1 - Say Hello EstradaC\\obj\\",
+        "outputPath": "C:\\Users\\cestr\\Desktop\\CSA Combine\\Day_Two_Intro_to_Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cestr\\AppData\\Roaming\\NuGet\\NuGet.Config"
