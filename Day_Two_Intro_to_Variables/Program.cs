@@ -1,8 +1,6 @@
 ﻿//Day two Variable Lecture
 
 //Console.clear(); clears terminal
-using System.Collections.Specialized;
-using System.Data;
 
 Console.Clear();
 
