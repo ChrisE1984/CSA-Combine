@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\bin\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\bin\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\bin\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\bin\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\bin\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\refint\Day_Two_Arithmetic_and_Conversions.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\Day_Two_Arithmetic_and_Conversions.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Two_Arithmetic_and_Conversions\obj\Debug\net10.0\ref\Day_Two_Arithmetic_and_Conversions.dll

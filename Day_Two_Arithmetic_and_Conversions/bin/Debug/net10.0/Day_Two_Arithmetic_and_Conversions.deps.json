@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Day_Two_Arithmetic_and_Conversions/1.0.0": {
+        "runtime": {
+          "Day_Two_Arithmetic_and_Conversions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day_Two_Arithmetic_and_Conversions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
