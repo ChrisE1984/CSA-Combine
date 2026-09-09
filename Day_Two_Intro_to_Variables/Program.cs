@@ -2,6 +2,7 @@
 
 //Console.clear(); clears terminal
 using System.Collections.Specialized;
+using System.Data;
 
 Console.Clear();
 
@@ -35,3 +36,27 @@ double chipotleBurrito = 11.45;
 //Boolean Data Types represent True or False
 bool isItColdInHere = true; //Camel Case is when you have multiple words in a variable the first word is lowercase and every word after is capitalized
 Console.WriteLine(isItColdInHere);
+
+//Concatenation (+) is our first way to Join Text/Strings
+Console.WriteLine("Chris " + "Estrada");
+
+string firstName = "Chris";
+string lastName = "Estrada";
+
+Console.WriteLine(firstName  + " " + lastName);
+
+string fullName = "Jose " + "Martinez";
+
+Console.WriteLine(fullName);
+
+//string Interpolation is combining strings but we use $ then {} to add variable within the string
+
+Console.WriteLine("One of CodeStacks instructors is " + fullName); // Both are valid but Interpolation doesn't need the + sign
+Console.WriteLine($"One of CodeStacks Instructors is {fullName}");
+
+Console.WriteLine("Please enter the number 45");
+
+//Console.ReadLine() can only be a string
+
+string num = Console.ReadLine()
+
