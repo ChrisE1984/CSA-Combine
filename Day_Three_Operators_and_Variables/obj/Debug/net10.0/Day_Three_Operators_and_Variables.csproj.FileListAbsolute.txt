@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\bin\Debug\net10.0\Day_Three_Operators_and_Variables.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\bin\Debug\net10.0\Day_Three_Operators_and_Variables.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\bin\Debug\net10.0\Day_Three_Operators_and_Variables.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\bin\Debug\net10.0\Day_Three_Operators_and_Variables.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\bin\Debug\net10.0\Day_Three_Operators_and_Variables.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\Day_Three_Operators_and_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\Day_Three_Operators_and_Variables.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\Day_Three_Operators_and_Variables.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\Day_Three_Operators_and_Variables.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\Day_Three_Operators_and_Variables.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\Day_Three_Operators_and_Variables.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\refint\Day_Three_Operators_and_Variables.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\Day_Three_Operators_and_Variables.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\Day_Three_Operators_and_Variables.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Operators_and_Variables\obj\Debug\net10.0\ref\Day_Three_Operators_and_Variables.dll
