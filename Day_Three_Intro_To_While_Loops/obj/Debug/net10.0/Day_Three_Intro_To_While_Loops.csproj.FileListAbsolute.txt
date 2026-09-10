@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\Day_Three_Intro_To_While_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\Day_Three_Intro_To_While_Loops.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\Day_Three_Intro_To_While_Loops.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\Day_Three_Intro_To_While_Loops.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\Day_Three_Intro_To_While_Loops.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\bin\Debug\net10.0\Day_Three_Intro_To_While_Loops.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\bin\Debug\net10.0\Day_Three_Intro_To_While_Loops.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\bin\Debug\net10.0\Day_Three_Intro_To_While_Loops.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\bin\Debug\net10.0\Day_Three_Intro_To_While_Loops.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\bin\Debug\net10.0\Day_Three_Intro_To_While_Loops.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\Day_Three_Intro_To_While_Loops.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\refint\Day_Three_Intro_To_While_Loops.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\Day_Three_Intro_To_While_Loops.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\Day_Three_Intro_To_While_Loops.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Three_Intro_To_While_Loops\obj\Debug\net10.0\ref\Day_Three_Intro_To_While_Loops.dll
