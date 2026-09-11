@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\Day_4_Intro_To_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\Day_4_Intro_To_Loops.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\Day_4_Intro_To_Loops.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\Day_4_Intro_To_Loops.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\Day_4_Intro_To_Loops.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\bin\Debug\net10.0\Day_4_Intro_To_Loops.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\bin\Debug\net10.0\Day_4_Intro_To_Loops.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\bin\Debug\net10.0\Day_4_Intro_To_Loops.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\bin\Debug\net10.0\Day_4_Intro_To_Loops.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\bin\Debug\net10.0\Day_4_Intro_To_Loops.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\Day_4_Intro_To_Loops.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\refint\Day_4_Intro_To_Loops.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\Day_4_Intro_To_Loops.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\Day_4_Intro_To_Loops.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_4_Intro_To_Loops\obj\Debug\net10.0\ref\Day_4_Intro_To_Loops.dll

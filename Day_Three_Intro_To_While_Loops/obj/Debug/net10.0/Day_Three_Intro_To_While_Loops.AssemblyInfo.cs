@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day_Three_Intro_To_While_Loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3ca0d1ec02ea1789167f1c18a99dc997fa98b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e90d53779ed1d0f98a16e27ae0c4a01209ff5a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day_Three_Intro_To_While_Loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day_Three_Intro_To_While_Loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
