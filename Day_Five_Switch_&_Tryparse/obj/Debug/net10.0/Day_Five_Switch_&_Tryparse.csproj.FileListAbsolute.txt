@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\bin\Debug\net10.0\Day_Five_Switch_&_Tryparse.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\bin\Debug\net10.0\Day_Five_Switch_&_Tryparse.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\bin\Debug\net10.0\Day_Five_Switch_&_Tryparse.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\bin\Debug\net10.0\Day_Five_Switch_&_Tryparse.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\bin\Debug\net10.0\Day_Five_Switch_&_Tryparse.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\Day_Five_Switch_&_Tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\Day_Five_Switch_&_Tryparse.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\Day_Five_Switch_&_Tryparse.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\Day_Five_Switch_&_Tryparse.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\Day_Five_Switch_&_Tryparse.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\Day_Five_Switch_&_Tryparse.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\refint\Day_Five_Switch_&_Tryparse.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\Day_Five_Switch_&_Tryparse.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\Day_Five_Switch_&_Tryparse.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Five_Switch_&_Tryparse\obj\Debug\net10.0\ref\Day_Five_Switch_&_Tryparse.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day_Two_Arithmetic_and_Conversions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17175857d3ac527dfac1f5f7d0970bbb4650d8be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fad83f3424adbe77e9a6ee51c7c691add1e84e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day_Two_Arithmetic_and_Conversions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day_Two_Arithmetic_and_Conversions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

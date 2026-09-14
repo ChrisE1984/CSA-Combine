@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day_Two_Conditional_Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b9cb5b217b70960a14c3aebcf26594c47682a63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fad83f3424adbe77e9a6ee51c7c691add1e84e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day_Two_Conditional_Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day_Two_Conditional_Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
