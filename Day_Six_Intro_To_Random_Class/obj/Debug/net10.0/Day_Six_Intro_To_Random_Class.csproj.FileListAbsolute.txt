@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\bin\Debug\net10.0\Day_Six_Intro_To_Random_Class.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\bin\Debug\net10.0\Day_Six_Intro_To_Random_Class.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\bin\Debug\net10.0\Day_Six_Intro_To_Random_Class.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\bin\Debug\net10.0\Day_Six_Intro_To_Random_Class.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\bin\Debug\net10.0\Day_Six_Intro_To_Random_Class.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\Day_Six_Intro_To_Random_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\Day_Six_Intro_To_Random_Class.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\Day_Six_Intro_To_Random_Class.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\Day_Six_Intro_To_Random_Class.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\Day_Six_Intro_To_Random_Class.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\Day_Six_Intro_To_Random_Class.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\refint\Day_Six_Intro_To_Random_Class.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\Day_Six_Intro_To_Random_Class.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\Day_Six_Intro_To_Random_Class.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Six_Intro_To_Random_Class\obj\Debug\net10.0\ref\Day_Six_Intro_To_Random_Class.dll
