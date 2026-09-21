@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\bin\Debug\net10.0\Day_Nine_GuessIt_Classes.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\bin\Debug\net10.0\Day_Nine_GuessIt_Classes.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\bin\Debug\net10.0\Day_Nine_GuessIt_Classes.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\bin\Debug\net10.0\Day_Nine_GuessIt_Classes.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\bin\Debug\net10.0\Day_Nine_GuessIt_Classes.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\Day_Nine_GuessIt_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\Day_Nine_GuessIt_Classes.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\Day_Nine_GuessIt_Classes.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\Day_Nine_GuessIt_Classes.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\Day_Nine_GuessIt_Classes.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\Day_Nine_GuessIt_Classes.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\refint\Day_Nine_GuessIt_Classes.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\Day_Nine_GuessIt_Classes.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\Day_Nine_GuessIt_Classes.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_GuessIt_Classes\obj\Debug\net10.0\ref\Day_Nine_GuessIt_Classes.dll

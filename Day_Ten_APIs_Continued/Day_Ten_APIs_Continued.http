@@ -1,0 +1,6 @@
+@Day_Ten_APIs_Continued_HostAddress = http://localhost:5156
+
+GET {{Day_Ten_APIs_Continued_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

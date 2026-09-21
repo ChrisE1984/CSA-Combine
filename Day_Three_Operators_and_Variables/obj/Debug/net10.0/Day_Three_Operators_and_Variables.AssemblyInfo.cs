@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day_Three_Operators_and_Variables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e90d53779ed1d0f98a16e27ae0c4a01209ff5a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b8685ed40d072cc6f031f54d8fb0b7e4c4887be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day_Three_Operators_and_Variables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day_Three_Operators_and_Variables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

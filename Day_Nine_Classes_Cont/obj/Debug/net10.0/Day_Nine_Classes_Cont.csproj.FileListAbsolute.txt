@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\Day_Nine_Classes_Cont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\Day_Nine_Classes_Cont.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\Day_Nine_Classes_Cont.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\Day_Nine_Classes_Cont.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\Day_Nine_Classes_Cont.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\bin\Debug\net10.0\Day_Nine_Classes_Cont.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\bin\Debug\net10.0\Day_Nine_Classes_Cont.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\bin\Debug\net10.0\Day_Nine_Classes_Cont.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\bin\Debug\net10.0\Day_Nine_Classes_Cont.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\bin\Debug\net10.0\Day_Nine_Classes_Cont.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\Day_Nine_Classes_Cont.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\refint\Day_Nine_Classes_Cont.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\Day_Nine_Classes_Cont.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\Day_Nine_Classes_Cont.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Nine_Classes_Cont\obj\Debug\net10.0\ref\Day_Nine_Classes_Cont.dll

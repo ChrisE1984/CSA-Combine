@@ -1,0 +1,15 @@
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\bin\Debug\net10.0\Day_Seven_Classes_and_Methods.exe
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\bin\Debug\net10.0\Day_Seven_Classes_and_Methods.deps.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\bin\Debug\net10.0\Day_Seven_Classes_and_Methods.runtimeconfig.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\bin\Debug\net10.0\Day_Seven_Classes_and_Methods.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\bin\Debug\net10.0\Day_Seven_Classes_and_Methods.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\Day_Seven_Classes_and_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\Day_Seven_Classes_and_Methods.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\Day_Seven_Classes_and_Methods.AssemblyInfo.cs
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\Day_Seven_Classes_and_Methods.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\Day_Seven_Classes_and_Methods.sourcelink.json
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\Day_Seven_Classes_and_Methods.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\refint\Day_Seven_Classes_and_Methods.dll
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\Day_Seven_Classes_and_Methods.pdb
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\Day_Seven_Classes_and_Methods.genruntimeconfig.cache
+C:\Users\cestr\Desktop\CSA Combine\Day_Seven_Classes_and_Methods\obj\Debug\net10.0\ref\Day_Seven_Classes_and_Methods.dll

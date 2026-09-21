@@ -1,0 +1,6 @@
+@Day_Ten_Intro_to_APIs_HostAddress = http://localhost:5190
+
+GET {{Day_Ten_Intro_to_APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
