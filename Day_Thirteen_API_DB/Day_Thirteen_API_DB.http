@@ -1,0 +1,6 @@
+@Day_Thirteen_API_DB_HostAddress = http://localhost:5223
+
+GET {{Day_Thirteen_API_DB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
