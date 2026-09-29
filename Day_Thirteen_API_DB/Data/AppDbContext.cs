@@ -18,6 +18,7 @@ namespace Day_Thirteen_API_DB.Data
 
         //this IS the Students table as  far as our C# code is concerned
         public DbSet<Student> Students {get; set;}
+        public DbSet<Staff> Staff {get; set;}
     }
 
     

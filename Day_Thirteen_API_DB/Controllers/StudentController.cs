@@ -36,5 +36,33 @@ namespace Day_Thirteen_API_DB.Controllers
                 createdStudent 
             );
         }
+
+        [HttpPut("Update/{id}")]
+        public ActionResult<Student> Replace (int id, [FromBody] Student student)
+        {
+            Student? updated = _student.Replace(id, student);
+
+            if(updated is null)
+            {
+                return NotFound($"No student found with id{id}");
+            }
+
+            return Ok (updated);
+
+        }
+
+        [HttpPatch("patch/{id}")]
+        public ActionResult<Student> Patch (int id, [FromBody] Student changes)
+        {
+            Student? change = _student.Patch(id, changes);
+
+            if(change is null)
+            {
+                return NotFound($"No student with id {id}");
+            }
+
+            return NoContent();
+        }
+
     }
 }

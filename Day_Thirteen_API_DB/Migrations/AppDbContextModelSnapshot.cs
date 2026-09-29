@@ -16,11 +16,50 @@ namespace Day_Thirteen_API_DB.Migrations
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "10.0.12");
 
+            modelBuilder.Entity("Day_Thirteen_API_DB.Models.Staff", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int?>("Age")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Attendance")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("FullName")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<bool>("HasComputer")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<bool>("IsVaccinated")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Job")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Staff");
+                });
+
             modelBuilder.Entity("Day_Thirteen_API_DB.Models.Student", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
+
+                    b.Property<int?>("Age")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Attendance")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
 
                     b.Property<string>("Email")
                         .IsRequired()
@@ -29,6 +68,9 @@ namespace Day_Thirteen_API_DB.Migrations
                     b.Property<string>("FirstName")
                         .IsRequired()
                         .HasColumnType("TEXT");
+
+                    b.Property<bool>("IsVaccinated")
+                        .HasColumnType("INTEGER");
 
                     b.Property<string>("LastName")
                         .IsRequired()

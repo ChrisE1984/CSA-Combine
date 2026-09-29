@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day_Thirteen_API_DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84fe8eca255a647ba349cb0e319a41a2fdd0c6f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+723f092957bbf6673e163c6fd4ed4291358d212a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day_Thirteen_API_DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day_Thirteen_API_DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

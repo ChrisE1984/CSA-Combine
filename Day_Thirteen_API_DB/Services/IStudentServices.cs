@@ -13,5 +13,9 @@ namespace Day_Thirteen_API_DB.Services
         List<Student> GetAll();
 
         Student AddStudent (Student newstudent);//paramaters are just placeholders for incoming information
+
+        Student Replace (int id, Student student);
+
+        Student Patch (int id, Student changes);
     }
 }

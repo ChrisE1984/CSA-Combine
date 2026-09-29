@@ -7,14 +7,13 @@ using Microsoft.Net.Http.Headers;
 
 namespace Day_Thirteen_API_DB.Models
 {
-    public class Student
+    public class Student : BaseEntity
     {
-        public int Id {get; set;}
-        public string FirstName {get; set;}
+        public string FirstName {get; set;}= string.Empty;
 
-        public string LastName {get; set;}
+        public string LastName {get; set;}= string.Empty;
 
-        public string Email {get; set;}
+        public string Email {get; set;}= string.Empty;
     }
 }
 

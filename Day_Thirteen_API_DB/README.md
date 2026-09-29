@@ -62,3 +62,7 @@ SaveChanges() tells the ef core: Takes the changes I made and save them to the D
 ## Dependency Injections
 
 DI allows our classes to receive the things they need instead of creating it manually
+
+## CS Proj folder
+
+holds all of our packages that our project uses
