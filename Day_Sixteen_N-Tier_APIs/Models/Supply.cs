@@ -12,7 +12,8 @@ namespace Day_Sixteen_N_Tier_APIs.Models
         public string Name {get; set;} = string.Empty;
 
         public int Quantity {get; set;}
-        
+        //StorageLocation is Internal Only, the Client never sees it
+        public string StorageLocation {get;set;} =string.Empty;
 
     }
 }

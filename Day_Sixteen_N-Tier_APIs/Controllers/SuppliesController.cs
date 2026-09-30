@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Day_Sixteen_N_Tier_APIs.DTOs;
 using Day_Sixteen_N_Tier_APIs.Models;
 using Day_Sixteen_N_Tier_APIs.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -20,15 +21,15 @@ namespace Day_Sixteen_N_Tier_APIs.Controllers
         }
 
         [HttpGet("GetAll")]
-        public ActionResult<List<Supply>> GetAll()
+        public ActionResult<List<SupplyReadDTO>> GetAll()
         {
             return Ok(_supplies.GetAll());
         }
-        
+
         [HttpGet("GetById/{id}")]
-        public ActionResult<Supply> GetById(int id)
-        {
-            Supply? supply = _supplies.GetById(id);
+        public ActionResult<SupplyReadDTO> GetById(int id)
+        {//we are returning our DTO and NOT our Model because we do not want the location leaking
+            SupplyReadDTO? supply = _supplies.GetById(id);
 
             if (supply == null)
             {
@@ -36,50 +37,54 @@ namespace Day_Sixteen_N_Tier_APIs.Controllers
             }
             return Ok(supply);
         }
-
+        //[ApiController] checks the DTO attributes [Required] and [Range] before the method runs
+        // any non name or bad quantity The user gets an automatic 400
         [HttpPost("Create")]
-        public ActionResult<Supply> Create ([FromBody]Supply supply)
+        public ActionResult<SupplyReadDTO> Create([FromBody] SupplyCreateDTO supply)
         {
-            Supply? created = _supplies.Create(supply);
+            SupplyReadDTO? created = _supplies.Create(supply);
 
             if (created == null)
             {
-                return BadRequest("A supply needs a name and it's quantity cannot be below 0");
+                //This is stating there is a conflict with the information that is sent and the DB
+                return Conflict($"There is already a supply called {supply.Name}.");//409
             }
 
-                return CreatedAtAction(nameof(GetById), new {id = created.Id}, created);
+            return CreatedAtAction(nameof(GetById), new { id = created.Id }, created);
         }
 
-        [HttpPut("Withdraw/{id}/{amount}")]
-        public ActionResult<Supply> Withdraw(int id, int amount)
-        {
-            Supply? supply = _supplies.GetById(id);
 
-            if(supply == null)
+
+        [HttpPut("Withdraw/{id}/{amount}")]
+        public ActionResult<SupplyReadDTO> Withdraw(int id, int amount)
+        {
+            SupplyReadDTO? supply = _supplies.GetById(id);
+
+            if (supply == null)
             {
                 return NotFound($"No supply with id {id}");
             }
 
-            bool ok = _supplies.Withdraw( supply, amount);
+            bool ok = _supplies.Withdraw(id, amount);
 
-            if(ok == false)
+            if (ok == false)
             {
-                return BadRequest($"Cannot withdraw {amount}. There are {supply.Quantity} is on the shelf.");
+                return BadRequest($"Cannot withdraw {amount}. There are {supply.Quantity} on the shelf.");
             }
 
-            return Ok(supply);
+            return Ok(true);
         }
         [HttpDelete("Delete/{id}")]
-        public IActionResult Delete (int id)
+        public IActionResult Delete(int id)
         {
-            Supply? supply = _supplies.GetById(id);
 
-            if (supply == null)
+            if (_supplies.GetById(id) == null)
+
             {
                 return NotFound($"No supply exists with id {id}");
             }
 
-            _supplies.Delete(supply);
+            _supplies.Delete(id);
             return NoContent();
         }
 

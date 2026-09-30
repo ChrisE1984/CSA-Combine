@@ -15,3 +15,13 @@ Controller (Presentation) -> Services (Business) -> Repository (Data Access) -> 
 ## Repository
 
 - Stores and fetches Data (Get, Add, Update, Delete) - the only class that uses AppDbContext (only sees Database)
+
+### DTO (Data Transfer Objects)
+
+* Data * This holds the fields. No methods, no rules, AND NO DATABASE.
+* Transfer * It has one job, to carry data across our API
+* Object * This is a plain C# class, just like any other
+
+* Controller-DTO: Username/PW
+* Services- DTO/Model: checks username PW
+* Repository- Model/Entity: stores encrypted versions of Username/PW
